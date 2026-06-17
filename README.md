@@ -39,6 +39,8 @@ Senior Site Reliability Engineer with 15+ years of experience at Apple (via TCS)
 ![Disaster Recovery](https://img.shields.io/badge/Disaster_Recovery-0F766E?style=flat)
 ![System Design](https://img.shields.io/badge/System_Design-1E3A5F?style=flat)
 ![Networking](https://img.shields.io/badge/Networking-374151?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-6D28D9?style=flat&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0F766E?style=flat&logo=anthropic&logoColor=white)
 
 ---
 
