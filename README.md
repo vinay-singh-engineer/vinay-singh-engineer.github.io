@@ -47,6 +47,7 @@ Senior Site Reliability Engineer with 15+ years of experience at Apple (via TCS)
 | Project | Description | Stack |
 |:--------|:------------|:------|
 | [SRE Platform](https://github.com/vinay-singh-engineer/sre-platform) | Production-grade SRE reference on AWS — EKS, Terraform, Prometheus, Grafana, chaos engineering | AWS · EKS · Terraform · Prometheus · Grafana |
+| [OfferIQ](https://github.com/vinay-singh-engineer/offeriq) | AI-powered job offer intelligence — evaluates total comp, equity, COL, company health, and generates a Claude-powered negotiation email | FastAPI · Claude API · BLS API · Docker |
 | [Clipr](https://github.com/vinay-singh-engineer/clipr) | Async URL shortener with Redis-backed rate limiting and PostgreSQL | FastAPI · PostgreSQL · Redis · Docker |
 | [AutoPilot](https://github.com/vinay-singh-engineer/autopilot) | Self-hosted job scheduler with real-time web dashboard and webhook alerting | Flask · APScheduler · SQLite |
 | [Terraform AWS Stack](https://github.com/vinay-singh-engineer/terraform-aws-stack) | Flask web app on AWS provisioned end-to-end with Terraform IaC | Terraform · AWS · EC2 · nginx |
